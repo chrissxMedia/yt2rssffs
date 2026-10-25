@@ -1,0 +1,16 @@
+name: yt2rssffs
+description: YouTube channel feeds without an API key.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  html: ^0.15.7
+  shelf: ^1.4.2
+  xml: ^6.6.1
+  youtube_explode_dart: ^3.1.0
+
+dev_dependencies:
+  lints: ^6.0.0
